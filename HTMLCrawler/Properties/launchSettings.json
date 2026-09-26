@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HTMLCrawler": {
+      "commandName": "Project",
+      "commandLineArgs": "\"..\\..\\..\\testdata\\example.html\"\r\n\r\n"
+    }
+  }
+}
